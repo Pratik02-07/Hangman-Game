@@ -33,6 +33,22 @@ Enter your choice:
 
                                 Guess a letter:
 
+
+                                Hangman Game!
+                You have 0 tries to try and guess the word.
+
+                                NOOOOOOO!...you've been hanged.
+
+                                          +----+
+                                          |    |
+                                          |    O
+                                          |   /|\
+                                          |   / \
+                                          |
+                                        __|__
+                                The word was : july
+
+
 ## Features
 
 - Interactive console-based gameplay
