@@ -2,7 +2,36 @@
 
 A classic Hangman game implemented in C++. Test your vocabulary and guessing skills with this interactive console-based game.
 
-![Hangman Game Screenshot](hangman_screenshot.png)
+![Hangman Game Screenshot]
+
+Welcome to Hangman!
+Choose a category:
+1. Months
+2. Animals
+3. Countries
+4. Fruits
+5. Colors
+6. Professions
+7. Sports
+8. Vehicles
+Enter your choice:
+
+                                Hangman Game!
+                You have 6 tries to try and guess the word.
+
+                                Play!
+
+                                          +----+
+                                          |    |
+                                          |
+                                          |
+                                          |
+                                          |
+                                        __|__
+
+                                ___
+
+                                Guess a letter:
 
 ## Features
 
